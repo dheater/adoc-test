@@ -1,0 +1,3 @@
+# AsciiDoc Test
+
+This is just a little snippet to test Github support for AsciiDoc
